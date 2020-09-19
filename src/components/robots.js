@@ -60,4 +60,3 @@ export const robots = [
       email: 'randombndi@example.com'
     }
   ];
-  
